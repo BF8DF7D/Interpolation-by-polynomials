@@ -1,0 +1,16 @@
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program\Program\x64\Debug\Program.vcxproj.AssemblyReference.cache
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program\Program\x64\Debug\Program.vcxproj.SuggestedBindingRedirects.cache
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program\Program\x64\Debug\Program.PolinomForm.resources
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program\Program\x64\Debug\Program.vcxproj.GenerateResource.cache
+C:\АлтГТУ\Вычислительные алгоритмы\Лаб№3\Лаб№3[]\Program\Program\x64\Debug\Program.vcxproj.AssemblyReference.cache
+C:\АлтГТУ\Вычислительные алгоритмы\Лаб№3\Лаб№3[]\Program\Program\x64\Debug\Program.vcxproj.SuggestedBindingRedirects.cache
+C:\АлтГТУ\Вычислительные алгоритмы\Лаб№3\Лаб№3[]\Program\Program\x64\Debug\Program.PolinomForm.resources
+C:\АлтГТУ\Вычислительные алгоритмы\Лаб№3\Лаб№3[]\Program\Program\x64\Debug\Program.vcxproj.GenerateResource.cache
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program (Worked)\Program\x64\Debug\Program.vcxproj.AssemblyReference.cache
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program (Worked)\Program\x64\Debug\Program.vcxproj.SuggestedBindingRedirects.cache
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program (Worked)\Program\x64\Debug\Program.PolinomForm.resources
+D:\АлтГТУ\Вычислительные алгоритмы\Лаб№3[]\Program (Worked)\Program\x64\Debug\Program.vcxproj.GenerateResource.cache
+D:\АлтГТУ\Year№3\Computational algorithms\Lab_N3 []\Program (Worked)\Program\x64\Debug\Program.vcxproj.AssemblyReference.cache
+D:\АлтГТУ\Year№3\Computational algorithms\Lab_N3 []\Program (Worked)\Program\x64\Debug\Program.vcxproj.SuggestedBindingRedirects.cache
+D:\АлтГТУ\Year№3\Computational algorithms\Lab_N3 []\Program (Worked)\Program\x64\Debug\Program.PolinomForm.resources
+D:\АлтГТУ\Year№3\Computational algorithms\Lab_N3 []\Program (Worked)\Program\x64\Debug\Program.vcxproj.GenerateResource.cache
